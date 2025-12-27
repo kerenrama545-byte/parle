@@ -1,0 +1,25 @@
+/*--------------------------------------------------------------
+1. Basic Color Variable
+----------------------------------------------------------------*/
+
+$white: #fff;
+$black: #000;
+$primary: #D09A40;
+$secondary: #040D10;
+$ternary: #999696;
+$border: #4F4836;
+$yellow: #D09A40;
+$about_bg: #040D10;
+
+:root {
+    --body-font-family: "Prompt", sans-serif;
+    --heading-font-family: "Baskervville", sans-serif;
+    --yellow-color: #D09A40;
+    --body-color: #C8C8C8;
+    --body-bg-color: #040D10;
+    --body-bg-color-two: #091E24;
+    --heading-color: #D09A40;
+    --border-color: #4F4836;
+    --common-color-white: #FFF;
+    --common-color-black: #000000;
+}
